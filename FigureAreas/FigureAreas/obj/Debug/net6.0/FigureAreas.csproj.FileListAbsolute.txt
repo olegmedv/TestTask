@@ -1,0 +1,12 @@
+C:\Users\MSINote\source\repos\FigureAreas\FigureAreas\bin\Debug\net6.0\FigureAreas.deps.json
+C:\Users\MSINote\source\repos\FigureAreas\FigureAreas\bin\Debug\net6.0\FigureAreas.dll
+C:\Users\MSINote\source\repos\FigureAreas\FigureAreas\bin\Debug\net6.0\FigureAreas.pdb
+C:\Users\MSINote\source\repos\FigureAreas\FigureAreas\obj\Debug\net6.0\FigureAreas.csproj.AssemblyReference.cache
+C:\Users\MSINote\source\repos\FigureAreas\FigureAreas\obj\Debug\net6.0\FigureAreas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSINote\source\repos\FigureAreas\FigureAreas\obj\Debug\net6.0\FigureAreas.AssemblyInfoInputs.cache
+C:\Users\MSINote\source\repos\FigureAreas\FigureAreas\obj\Debug\net6.0\FigureAreas.AssemblyInfo.cs
+C:\Users\MSINote\source\repos\FigureAreas\FigureAreas\obj\Debug\net6.0\FigureAreas.csproj.CoreCompileInputs.cache
+C:\Users\MSINote\source\repos\FigureAreas\FigureAreas\obj\Debug\net6.0\FigureAreas.dll
+C:\Users\MSINote\source\repos\FigureAreas\FigureAreas\obj\Debug\net6.0\refint\FigureAreas.dll
+C:\Users\MSINote\source\repos\FigureAreas\FigureAreas\obj\Debug\net6.0\FigureAreas.pdb
+C:\Users\MSINote\source\repos\FigureAreas\FigureAreas\obj\Debug\net6.0\ref\FigureAreas.dll
